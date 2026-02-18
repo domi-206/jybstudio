@@ -1,0 +1,8 @@
+{
+  "name": "Jyb Tv Studio",
+  "description": "A production-ready AI media creation studio for cinematic montages, image enhancement, and text-to-video generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
